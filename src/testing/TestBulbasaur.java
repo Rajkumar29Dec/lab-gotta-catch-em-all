@@ -1,5 +1,5 @@
 package testing;
-/*
+// /*
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
@@ -10,7 +10,7 @@ public class TestBulbasaur {
 	@Test
 	public void testCharacteristicsMethod() {
 	//	Bulbasaur p = new Bulbasaur("AAA",4);
-		String temp = "Bulbasaur is a Grass/Poison-type Pokémon introduced in Generation I. It evolves into Ivysaur starting at level 16. It is one of the three Starter Pokémon in the Kanto region.";
+		String temp = "Bulbasaur is a Grass/Poison-type Pokï¿½mon introduced in Generation I. It evolves into Ivysaur starting at level 16. It is one of the three Starter Pokï¿½mon in the Kanto region.";
 		assertEquals(temp,p.characteristics());		
 		try {
 	//		Bulbasaur p1 = new Bulbasaur(null,0);
@@ -67,4 +67,4 @@ public class TestBulbasaur {
 		}
 	}
 }
-*/
+// */
