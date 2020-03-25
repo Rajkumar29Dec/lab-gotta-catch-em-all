@@ -44,7 +44,7 @@
            			<div class="card1centered4" id = "bb"> ${baseExp1}</div>
     				<img src="./assets/Card 2.png" >  
     				<a href="javascript:void(0)" id = "close1" class="closebtn" onclick="closeForm5()">&times;</a>
-           			
+           			<!-- <img  class = "image1" src = "assets/Card 2.png" id = "img1" alt="Show/Hide Image" style="display:none" > -->           			
            		</div>
            		<div class = "popup2" id = "popup2">
 					<div class="card2centered" id = "cm"> ${message2}</div>
